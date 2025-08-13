@@ -1,0 +1,10 @@
+To-Do:
+Display the market cap of the remilio collection.
+Display their market caps combined.
+Add caching for mcaps to decrease the number of requests.
+Add a helper to make market caps more readable.
+
+Doing:
+Display the market cap of the milady collection with an image in my site.
+
+Done:
